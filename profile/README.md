@@ -8,4 +8,4 @@
 - [List.tkn.eth](https://list.tkn.eth.limo) | TokenLists.org formatted token list
 - [ENS Manager](https://app.ens.domains/tkn.eth?tab=subnames) | TKN data inside the ENS Manager Application
 
-Need assistance? Hop in our [Discord](https://discord.com/invite/dEc9GHjKUP)
+Need assistance? Hop in our [Discord](https://discord.com/invite/dEc9GHjKUP) or fill out our [Feedback Form](https://app.deform.cc/form/784f4107-4c46-44b4-85b6-fc6557384ad8)
